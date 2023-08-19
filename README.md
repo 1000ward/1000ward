@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07c28f&height=120&section=header"/>
+<img src=https://github.com/1000ward/1000ward/blob/main/image/portada.png >
 
 <h3 align="center">
   Welcome to Milward's profile!
@@ -56,4 +56,3 @@ Mi objetivo es trabajar en una empresa que trabaje con tecnología de punta. As�
 ✔ Web site: <a href="https://magaerv.dev">https://magaerv.dev</a> <br/>
 ✔ Twitter: <a href="https://twitter.com/m4riel4r">@m4riel4r</a> <br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07c28f&height=120&section=footer"/>
