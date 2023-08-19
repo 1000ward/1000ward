@@ -1,4 +1,6 @@
-                          <img src=https://github.com/1000ward/1000ward/blob/main/image/portada.png>
+<p align="center">
+  <img src=https://github.com/1000ward/1000ward/blob/main/image/portada.png>
+</p>
 
 <h3 align="center">
   Welcome to Milward's profile!
@@ -10,7 +12,7 @@
 
 ---
 
-   <h3>About me</h3>
+   <h3>Acerda de mi</h3>
 
 ---
 
@@ -23,13 +25,6 @@ Estoy emocionado por trabajar como desarrollador web. Cada desafío es un nuevo 
 Mi objetivo es trabajar en una empresa que trabaje con tecnología de punta. Así que he estado mejorando diligentemente mis habilidades y acumulando experiencia para llegar allí. Finalmente me siento seguro de ser un gran activo para cualquier equipo en desarrollo.
 
 </p>
-
-- 🔭 I’m currently working on [MyPortfolio](https://magaerv.dev)
-- 🌱 I'm currently learning <b>Oracle Cloud Infrastructure</b> and <b>Project Management</b>.
-- 💬 Ask me about JavaScript, React, Redux, Node.js
-
-
----
 
    <h3>Skills</h3>
 
@@ -47,12 +42,18 @@ Mi objetivo es trabajar en una empresa que trabaje con tecnología de punta. As�
 
 ---
 
-   <h3>Contact me</h3>
+<h4>¡Conéctate Conmigo!</h4>
+  <a href="https://www.linkedin.com/in/milward-raul-larico-tuni-97b203118/" target="_blank">
+    <img
+      width="5%"
+      src="https://drive.google.com/uc?export=view&id=1bj03dHdz12o0RYxuDeYhkOfWFQxmj5_k"
+    />
+  </a>
+  <a href="mailto:1000ward23@gmail.com" target="_blank">
+    <img
+      width="5%"
+      src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"
+    />
+  </a>
 
----
-
-✔ Linkedin: <a href="https://www.linkedin.com/in/mariela-ramirez-valle/">https://www.linkedin.com/in/mariela-ramirez-valle/</a> <br/>
-✔ E-mail: magaerv.dev@gmail.com <br/>
-✔ Web site: <a href="https://magaerv.dev">https://magaerv.dev</a> <br/>
-✔ Twitter: <a href="https://twitter.com/m4riel4r">@m4riel4r</a> <br/>
 
